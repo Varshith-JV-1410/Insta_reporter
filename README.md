@@ -56,7 +56,7 @@ if pkg update command will not work then first upgrade your termux and type y al
 pkg upgrade
 pkg upgrade
 ```
-
+##CREDITS_T0_RESPECTIVE_OWNERS
 ## Authors
 
 DARK SQUAD (ANONYMOUS)
