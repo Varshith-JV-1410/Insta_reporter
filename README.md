@@ -29,6 +29,12 @@ This tool is strongly recommended for educational purpose but before using this 
 
 * update and upgrade your termux if you get any problem while excuting this program
 ```
+pip install requests
+```
+```
+pip install colorama
+```
+```
 pkg install git
 ```
 ```
